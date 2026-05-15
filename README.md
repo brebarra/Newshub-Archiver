@@ -43,6 +43,8 @@ If neither method identifies an author, the article is treated as authorless and
 
 # Newshub Archiver GUI
 
+![Screenshot of the Newshub archiver GUI](newshub-archiver-gui.jpg)
+
 The final application is a distributable GUI built for end users.
 
 Users enter their name and the program searches for all matching stories, including articles with multiple reporters. As stories are exported, the GUI displays a progress indicator based on the number of matching articles found.
